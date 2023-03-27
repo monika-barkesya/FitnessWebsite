@@ -1,0 +1,21 @@
+.image-wraper{
+    height: 10vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image-wraper1{
+    height: 10vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-wraper img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.image-wraper1 img{
+    max-width: 100%;
+    max-height: 100%;
+}
